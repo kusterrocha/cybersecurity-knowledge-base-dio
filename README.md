@@ -34,7 +34,7 @@ A jornada de desenvolvimento deste projeto trouxe aprendizados cruciais para a a
 
 ## Documentos Gerados
 
-* [Guia de Segurança Midway - PDF](./caminho-para-seu-arquivo/Guia_de_Seguranca_Midway_Icones.pdf)
+* [Guia de Segurança Midway - PDF](./caminho-para-seu-arquivo/Guia_de_Seguranca_Midway.pdf)
 * [Glossário de Termos de Cibersegurança](./glossario.md)
 
 ---
